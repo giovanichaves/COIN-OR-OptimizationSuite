@@ -5,8 +5,8 @@ ThirdParty/Blas   https://github.com/coin-or-tools/ThirdParty-Blas master
 ThirdParty/Lapack https://github.com/coin-or-tools/ThirdParty-Lapack master
 ThirdParty/Glpk   https://github.com/coin-or-tools/ThirdParty-Glpk master
 ThirdParty/FilterSQP https://github.com/coin-or-tools/ThirdParty-FilterSQP master
-ThirdParty/HSL    https://github.com/coin-or-tools/ThirdParty-HSL stable/2.2
-ThirdParty/Mumps  https://github.com/coin-or-tools/ThirdParty-Mumps releases/3.0.8
+ThirdParty/HSL    https://github.com/coin-or-tools/ThirdParty-HSL master
+ThirdParty/Mumps  https://github.com/coin-or-tools/ThirdParty-Mumps master
 ThirdParty/Metis  https://github.com/coin-or-tools/ThirdParty-Metis master
 ThirdParty/SoPlex https://github.com/coin-or-tools/ThirdParty-SoPlex master
 ThirdParty/SCIP   https://github.com/coin-or-tools/ThirdParty-SCIP master
@@ -26,9 +26,9 @@ Cbc               https://github.com/coin-or/Cbc master
 #Smi               https://github.com/coin-or/Smi master
 #CoinMP            https://github.com/coin-or/CoinMP master
 #Bcp               https://github.com/coin-or/Bcp master
-Ipopt             https://github.com/coin-or/Ipopt releases/3.14.16
-Alps              https://github.com/coin-or/CHiPPS-ALPS stable/1.5
-Bcps              https://github.com/coin-or/CHiPPS-BiCePS stable/0.94
+Ipopt             https://github.com/coin-or/Ipopt master
+Alps              https://github.com/coin-or/CHiPPS-ALPS master
+Bcps              https://github.com/coin-or/CHiPPS-BiCePS master
 Blis              https://github.com/coin-or/CHiPPS-BLIS master
 #Dip               https://github.com/coin-or/Dip master
 cppad             https://github.com/coin-or/CppAD master
@@ -36,4 +36,4 @@ Bonmin            https://github.com/coin-or/Bonmin master
 Couenne           https://github.com/coin-or/Couenne master
 #OS                https://github.com/coin-or/OS master 
 MibS              https://github.com/coin-or/Mibs master
-examples          https://github.com/coin-or-bazaar/ApplicationTemplates stable/1.3
+examples          https://github.com/coin-or-bazaar/ApplicationTemplates master
